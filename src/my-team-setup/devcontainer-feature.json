@@ -1,6 +1,6 @@
 {
     "id": "my-team-setup",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "My Team Setup",
     "description": "Installs Python3 with common packages and adds 'Hello World!' to the terminal prompt",
     "options": {
